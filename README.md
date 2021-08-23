@@ -12,3 +12,10 @@ We have successfully fixed the merge conflict
 > this is a block quote
 >
 > continued
+
+This is `inline` monospace font
+
+```python
+def foo():
+  return 5
+```
